@@ -3,7 +3,7 @@
 ## Студент группы ПМ-11 Горбачев Родион Дмитриевич
 
 ![PascalABC](https://img.shields.io/badge/PascalABC-Programming-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-In_Work-success)
 
 
 ## 📚 Содержание
